@@ -1,0 +1,52 @@
+
+<form>
+  <h1 style="background-color:lavender;">CV</h1>
+  <br>
+
+  <img src="https://www.pinterest.com/pin/17451517298075768/" alt="Profile of User" width="200" height="200">
+  <h1 style="background-color:lavender;">Khandaker Fatema Nur Sohada</h1>
+  
+<html>
+<head>
+<style>
+body {
+  background-color: lavenderblush;
+  color: darkolivegreen;
+}
+
+h1 {
+  color: Black;
+}
+</style>
+</head>
+<body>
+  <h1 style="background-color:lavender;">Current Profession: </h1>
+  <p> <b>Web Developer, Alco.Toronto </b></p>
+  <p> <b>Content Writer, Toronto </b></p>
+   <h1 style="background-color:lavender;">Experience: </h1>
+  <p>Graphics Designer, Welco.org (2012-2016)</p>
+  <p> Senior Consultant, IBM (2016-2021)</p>
+
+  <h1 style="background-color:lavender;">Educations: </h1>
+  <p><b>A Levels: </b> DPS, (May 2006- June 2008)</p>
+  <p><b>O Levels: </b> DPS, (May 2004- June 2005)</p>
+
+  <p><b> B.Ss in Computer Science and Engineering, </b> <b>AIUB </b> (2008-2012)</p>
+  <h1 style="background-color:lavender;">Address:</h1>
+  <p><b> Toronto, Canada </b></p> 
+  <p>Gulshan, Dhaka, Bangladesh</p>
+  <h1 style="background-color:lavender;">Language: </h1>
+          <p>ENGLISH: FULL WORKING PROFICIENCY, </p> 
+          <p>BANGLA: NATIVE TONGUE, </p> 
+          <p>ARABIC: ELEMENTARY KNOWLEDGE,</p>  
+          <p>HINDI: ELEMENTARY KNOWLEDGE</p>      
+  <h1 style="background-color:lavender;">Personal Skills: </h1>
+  <p>Adaptability</p>
+  <p>Teamwork</p>
+  <p>Work Ethic</p>
+  <p>Leadership</p>
+  <p>Writer</p>
+  <p>Punctuality</p>
+  <p>Communication Skills</p>
+
+</form>
